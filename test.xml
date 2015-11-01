@@ -1,6 +1,6 @@
 <scene>
   <!-- Gallery model -->
-  <model src="/blue.obj" position="0 0 0" style="color: #777; light-map: url(/blue.png); collision: mesh; " />
+  <model src="/lightmapped.obj" position="-16 -12 -16" style="color: #777; light-map: url(/lightmapped.png); collision: mesh; " />
 
   <spawn position="0 10 0" />
 </scene>
